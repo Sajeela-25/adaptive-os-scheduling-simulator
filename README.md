@@ -1,10 +1,10 @@
 # Adaptive OS Scheduling & Resource Management Simulator
 
-## 📌 Overview
+## Overview
 
 An interactive Operating Systems simulator built with **Python and Streamlit** to demonstrate CPU scheduling, memory management, concurrency, IPC, and Docker-based resource management.
 
-## ✨ Features
+## Features
 
 - CPU Scheduling:
   - FCFS
@@ -30,7 +30,7 @@ An interactive Operating Systems simulator built with **Python and Streamlit** t
 - Docker Process Isolation
 - Performance Comparison
 
-## 🛠️ Technologies
+## Technologies
 
 - Python 3.11
 - Streamlit
@@ -40,7 +40,7 @@ An interactive Operating Systems simulator built with **Python and Streamlit** t
 - Multiprocessing
 - Threading
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 adaptive-os-scheduling-simulator/
